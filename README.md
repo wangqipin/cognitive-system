@@ -1,17 +1,16 @@
-# Philosophy Module
+# Cognitive System
 
-哲学结构模型库。
-
----
-
-## 基础模型（Level 1）
-
-- [PH-1-01 长期主义](./PH-1-01-长期主义.md)
+个人认知操作系统。
 
 ---
 
-## 升级方向
+## 模块入口
 
-- 时间结构
-- 价值排序
-- 意义建构
+- [Philosophy](./philosophy/README.md)
+- [Meta System](./meta-system/README.md)
+
+---
+
+## 构建状态
+
+持续迭代中。

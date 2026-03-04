@@ -44,3 +44,4 @@ PS-1-02
 ## 操作流程
 
 输入 → 抽象模型 → 编号 → 进入模块 → 可被引用
+- [Cognitive Pyramid](./Cognitive-Pyramid.md)
